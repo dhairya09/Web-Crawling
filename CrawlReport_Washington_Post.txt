@@ -1,0 +1,45 @@
+Name: Dhairya Pujara
+USC ID: 8908302699
+News site crawled: https://www.washingtonpost.com/
+
+Fetch Statistics
+=================
+# fetches attempted: 19844
+# fetches succeeded: 18623
+# fetches failed: 1221
+
+Outgoing URLs:
+=====================
+Total URLs extracted: 432527
+# unique URLs extracted: 159535
+# unique URLs within News Site: 52138
+# unique URLs outside News Site: 107397
+
+Status Codes:
+=====================
+200 OK: 18623
+403 Forbidden:: 2
+502 null: 4
+400 null: 24
+301 Moved Permanently: 493
+302 Found: 30
+404 Not Found:: 668
+
+File Sizes:
+=====================
+< 1KB: 5
+1KB ~ <10KB: 622
+10KB ~ <100KB: 4259
+100KB ~ <1MB: 13597
+>= 1MB: 137
+
+Content Types:
+=====================
+image/jpeg: 815
+image/png: 109
+image/x-icon: 2
+image/gif: 58
+image/svg+xml: 5
+text/html: 16788
+application/pdf: 309
+
